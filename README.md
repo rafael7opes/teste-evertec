@@ -1,6 +1,6 @@
 # Desafio Técnico - Analista de Sistemas Jr | Evertec
 
-Este repositório contém a resolução do teste técnico para a vaga de Analista de Sistemas Júnior na Evertec. O projeto foi dividido em três frentes: Lógica, Banco de Dados (SQL) e Desenvolvimento Web com .NET.
+Este repositório contém a resolução do teste técnico para a vaga de Analista de Sistemas Jr na Evertec. O projeto foi dividido em três frentes: Lógica, Banco de Dados (SQL) e Desenvolvimento Web com .NET.
 
 ---
 
