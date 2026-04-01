@@ -8,7 +8,7 @@ Este repositório contém a resolução do teste técnico para a vaga de Analist
 
 Esta é a parte principal do teste. Desenvolvi uma página web para o gerenciamento de pontos turísticos, aplicando os conhecimentos de Back-end e Front-end que estou desenvolvendo no meu segundo ano de Análise e Desenvolvimento de Sistemas na UNINTER.
 
-* **O que utilizei:** C# (ASP.NET Core), SQLite para o banco de dados, além de HTML, CSS e JavaScript básico.
+* **O que utilizei:** C# (ASP.NET Core), SQLite para o banco de dados, além de HTML, CSS e JavaScript.
 * **Como funciona:**
     * O sistema utiliza o **Entity Framework Core** para realizar a leitura e a gravação de dados no arquivo `banco.db`.
     * No Back-end, configurei as rotas via Controllers para integrar os dados com a interface.
