@@ -1,11 +1,11 @@
 # Desafio Técnico - Analista de Sistemas Jr | Evertec
 
-Este repositório contém a resolução do teste técnico para a vaga de Analista de Sistemas Júnior na Evertec. O projeto foi dividido em três partes: Lógica, SQL e Desenvolvimento Web com .NET.
+Este repositório contém a resolução do teste técnico para a vaga de Analista de Sistemas JR | .NET  na Evertec. O projeto foi dividido em três partes: Lógica, SQL e Desenvolvimento Web com .NET.
 
 ---
 
 ## 1. TurismoApp (Aplicação Web)
-Esta é a parte principal do desafio. Desenvolvi uma página web para gerenciar pontos turísticos, aplicando o que estou aprendendo no meu curso de Análise e Desenvolvimento de Sistemas na UNINTER.
+Esta é a parte principal do teste. Desenvolvi uma página web para gerenciar pontos turísticos, aplicando o que estou aprendendo no meu curso de Análise e Desenvolvimento de Sistemas na UNINTER.
 
 * **O que utilizei:** C# (ASP.NET Core), SQLite para o banco de dados, além de HTML, CSS e JavaScript.
 * **Como funciona:**
