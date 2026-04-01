@@ -4,7 +4,7 @@ Este repositório contém a resolução do teste técnico para a vaga de Analist
 
 ---
 
-## 💻 1. TurismoApp (Aplicação Web)
+## 1. TurismoApp (Aplicação Web)
 Esta é a parte principal do desafio. Desenvolvi uma página web para gerenciar pontos turísticos, aplicando o que estou aprendendo no meu curso de Análise e Desenvolvimento de Sistemas na UNINTER.
 
 * **O que utilizei:** C# (ASP.NET Core), SQLite para o banco de dados, além de HTML, CSS e JavaScript.
@@ -13,19 +13,19 @@ Esta é a parte principal do desafio. Desenvolvi uma página web para gerenciar 
     * No Back-end, criei as rotas que entregam os dados para a tela.
     * No Front-end, a página mostra a lista de locais de forma dinâmica, buscando as informações direto do servidor.
 
-## 🗄️ 2. Teste SQL (Scripts)
+## 2. Teste SQL (Scripts)
 Pasta: `Teste_SQL`
 Aqui estão os 8 scripts SQL solicitados. Eles cobrem desde consultas simples até comandos mais avançados.
 * **O que apliquei:** Consultas com `JOIN` e `EXISTS`, comandos de manutenção (`INSERT`, `UPDATE`, `DELETE`) e a criação de uma `VIEW` e uma `STORED PROCEDURE`.
 
-## 🧠 3. Teste de Lógica (Algoritmo)
+## 3. Teste de Lógica (Algoritmo)
 Pasta: `Algoritmo logica`
 Criei um algoritmo passo a passo para a troca de um pneu furado. 
 * **Diferencial:** Foquei na lógica de validação. O sistema (ou a pessoa) verifica se o estepe e as ferramentas estão disponíveis antes de começar o trabalho, evitando erros no processo.
 
 ---
 
-## 🚀 Como rodar o projeto na sua máquina
+## Como rodar o projeto na sua máquina
 
 Para testar a aplicação Web (`TurismoApp`), siga estes passos:
 
