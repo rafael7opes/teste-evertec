@@ -38,4 +38,4 @@ Para avaliar a aplicação Web (`TurismoApp`) na sua máquina, siga os passos ab
 1. **Clone o repositório**
 Abra o seu terminal e digite:
 ```bash
-git clone [https://github.com/rafael7opes/teste-evertec.git](https://github.com/rafael7opes/teste-evertec.git)
+git clone https://github.com/rafael7opes/teste-evertec.git
