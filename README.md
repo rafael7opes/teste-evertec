@@ -6,7 +6,7 @@ Este repositório contém a resolução do teste técnico para a vaga de Analist
 
 ## 1. TurismoApp (Aplicação Web)
 
-Esta é a parte principal do desafio. Desenvolvi uma página web para o gerenciamento de pontos turísticos, aplicando os conhecimentos de Back-end e Front-end que estou desenvolvendo no meu segundo ano de Análise e Desenvolvimento de Sistemas na UNINTER.
+Esta é a parte principal do teste. Desenvolvi uma página web para o gerenciamento de pontos turísticos, aplicando os conhecimentos de Back-end e Front-end que estou desenvolvendo no meu segundo ano de Análise e Desenvolvimento de Sistemas na UNINTER.
 
 * **O que utilizei:** C# (ASP.NET Core), SQLite para o banco de dados, além de HTML, CSS e JavaScript básico.
 * **Como funciona:**
