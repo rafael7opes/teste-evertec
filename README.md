@@ -12,9 +12,9 @@ Esta é a parte principal do teste. Desenvolvi uma página web para o gerenciame
 * **Como funciona:**
 * **Ponte de Dados:** O sistema utiliza o **Entity Framework Core** para realizar a leitura e a gravação de dados no arquivo `banco.db`. Ele serve como o "tradutor" entre o meu código C# e o banco de dados.
 
-* **Back-end e API:** No C#, configurei as rotas via Controllers que atuam como o cérebro da aplicação. Elas gerenciam as requisições, realizam o processamento lógico dos dados e garantem que cada operação (como a remoção de um item) seja executada corretamente no banco de dados.
+* **Back-end e API:** No C#, configurei as rotas via Controllers que funcionam como o "cérebro" da aplicação. Elas recebem as solicitações da página, processam as informações e garantem que tudo seja salvo ou removido corretamente no banco de dados.
 
-* **Front-end e Interatividade:** Desenvolvi uma interface dinâmica onde o usuário pode visualizar detalhes e gerenciar a lista de locais. Utilizei JavaScript para manipular o DOM, permitindo que as alterações reflitam na tela instantaneamente, sem a necessidade de recarregar a página (Single Page Behavior).
+* **Front-end e Interatividade:** Criei uma interface simples e funcional para o usuário gerenciar os locais. Usei JavaScript para que, ao clicar em comandos como o de excluir, a alteração apareça na tela sem precisar recarregar a página inteira, tornando o uso do sistema muito mais prático.
 
 ## 2. Teste SQL (Scripts)
 
