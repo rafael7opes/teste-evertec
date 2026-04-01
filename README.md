@@ -36,7 +36,7 @@ Para testar a aplicação Web (`TurismoApp`), siga estes passos:
 
 1. **Clone o repositório**
 Abra o seu terminal e digite:
-```bash
+``
 git clone https://github.com/rafael7opes/teste-evertec.git
 
 2. **Entre na pasta da aplicação**
@@ -45,7 +45,7 @@ cd teste-evertec/TurismoApp
 3. **Rode o projeto**
 dotnet run
 
-3. **Acesse no navegador**
-O terminal vai mostrar um link (geralmente http://localhost:5168 ou http://localhost:5000). Basta copiar e colar no seu navegador para ver o site funcionando.
+4. **Acesse no navegador**
+O terminal exibirá o link local da aplicação (exemplo: http://localhost:5168). Basta copiar o link e colar no seu navegador para testar.
 
 Desenvolvido por Rafael da Silva Lopes
