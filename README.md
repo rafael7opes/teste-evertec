@@ -1,6 +1,6 @@
-# Projeto de Estudos - Analista de Sistemas | LopesTur
+# Projeto Turismo - LopesTur
 
-Este repositório contém um projeto focado no aprimoramento prático em desenvolvimento de software. O projeto foi dividido em três frentes: Lógica, Banco de Dados (SQL) e Desenvolvimento Web com .NET.
+Este repositório contém uma Aplicação Web Full-Stack construída para consolidar meus conhecimentos na prática. O projeto é dividido em três módulos principais: Lógica de Processos, Banco de Dados (SQL) e Desenvolvimento Web com .NET.
 
 ---
 
